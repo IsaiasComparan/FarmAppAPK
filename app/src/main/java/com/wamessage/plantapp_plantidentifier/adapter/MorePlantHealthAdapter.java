@@ -1,0 +1,51 @@
+package com.wamessage.plantapp_plantidentifier.adapter;
+
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.TextView;
+import androidx.cardview.widget.CardView;
+import androidx.recyclerview.widget.RecyclerView;
+import com.wamessage.plantapp_plantidentifier.R;
+import com.wamessage.plantapp_plantidentifier.models.PlantHealth;
+import java.util.List;
+
+
+public class MorePlantHealthAdapter extends RecyclerView.Adapter<MorePlantHealthAdapter.MorePlantHolder> {
+    private List<PlantHealth> plantHealths;
+
+    public MorePlantHealthAdapter(List<PlantHealth> plantHealths) {
+        this.plantHealths = plantHealths;
+    }
+
+    @Override 
+    public MorePlantHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+        return new MorePlantHolder(LayoutInflater.from(parent.getContext()).inflate(R.layout.item_more_info_plant, parent, false));
+    }
+
+    @Override 
+    public int getItemCount() {
+        return this.plantHealths.size();
+    }
+
+    @Override 
+    public void onBindViewHolder(MorePlantHolder holder, int position) {
+        PlantHealth plantHealth = this.plantHealths.get(position);
+        holder.namePlant.setText(plantHealth.getName());
+        holder.score.setText("%" + plantHealth.getScore());
+    }
+
+
+    public class MorePlantHolder extends RecyclerView.ViewHolder {
+        public CardView cardView;
+        public TextView namePlant;
+        public TextView score;
+
+        public MorePlantHolder(View itemView) {
+            super(itemView);
+            this.namePlant = (TextView) itemView.findViewById(R.id.txtInfoPlant_Name);
+            this.score = (TextView) itemView.findViewById(R.id.txtInfoPlant_Score);
+            this.cardView = (CardView) itemView.findViewById(R.id.plantCard1);
+        }
+    }
+}

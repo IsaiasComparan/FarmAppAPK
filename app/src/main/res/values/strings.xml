@@ -1,0 +1,206 @@
+<resources>
+
+    <string name="AdMob_AppId">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="AdMob_Banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="AdMob_Native">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="AdMob_Interstitial">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="AdMob_OpenApp">ca-app-pub-3940256099942544/3419835294</string>
+    <string name="privacy">https://gsbusinessenvanto.blogspot.com/2022/05/gs-business.html</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="Policy">"Política "</string>
+    <string name="about_us">Acerca de nosotros :</string>
+    <string name="add_reminder">Agregar recordatorio</string>
+    <string name="adjust_env">Ajustar entorno :</string>
+    <string name="adjust_token">Ajustar token:</string>
+    <string name="alarm_name">Nombre de la alarma:</string>
+    <string name="are_you_sure_to_delete_history">¿Estás seguro de que deseas eliminar el historial?</string>
+    <string name="bloomify">Florecer</string>
+    <string name="botanic">Botánico</string>
+    <string name="cancel">Cancelar</string>
+    <string name="channel_1">Canal 1</string>
+    <string name="close">CERRAR</string>
+    <string name="content_boarding_1">Bloomify can identify 17,000+ plant species with 98% accuracy.</string>
+    <string name="content_boarding_2">Get advice on your next plant purchase based on the skills required, your gardening space, and more.</string>
+    <string name="content_boarding_3">Following our tips to your repertoire to make the entire process more enjoyable.</string>
+    <string name="content_dialog_photos">How would you like to upload the photo ?</string>
+    <string name="content_mail_fixback_rate">i. %1$s \10ii. Rate star (eg: %2$s/5) \10iii. Feedback text</string>
+    <string name="content_permission">To getting start, LeafID need your permission</string>
+    <string name="content_splash">UNLOCK THE SECRETS OF THE NATURAL WORLD AS YOU EASILY IDENTIFY PLANTS AND INSECTS WITH THE CLICK OF A CAMERA.</string>
+    <string name="continue_">Continuar</string>
+    <string name="copy_toast_msg">Enlace copiado al portapapeles</string>
+    <string name="country_name">Nombre del país</string>
+    <string name="crop_image_menu_crop">Cortar</string>
+    <string name="defaults">Predeterminado</string>
+    <string name="define_roundedimageview" />
+    <string name="diagnose">Diagnosticar</string>
+    <string name="diagnose_plant_health">Diagnosticar la salud de la planta</string>
+    <string name="dialog_exit_title">La planta no puede identificarse</string>
+    <string name="dont_let">No dejes que tu planta tenga escasez de agua</string>
+    <string name="dyAction.getClick">click</string>
+    <string name="dyAction.getLogicClick">click | alecfc</string>
+    <string name="dyAction.getLongClick">"Mantén "</string>
+    <string name="dyAction.getWobble">"Vibrar "</string>
+    <string name="dyEffect.getCountDown">Cuenta regresiva</string>
+    <string name="dyEffect.getVisible">Visible</string>
+    <string name="dyEffect.getVisibleParam">visible | parentesco</string>
+    <string name="dyEffect.getWobble">"Vibrar "</string>
+    <string name="dyStrategy.feedback">Retroalimentación</string>
+    <string name="dyStrategy.getActivity">actividad</string>
+    <string name="dyStrategy.getClose">cerrar</string>
+    <string name="dyStrategy.getDeeplink">"Enlace "</string>
+    <string name="dyStrategy.getDownload">descargar</string>
+    <string name="dyStrategy.notice">notificación</string>
+    <string name="dyStrategy.permissionInfo">permissionInfo</string>
+    <string name="dyStrategy.privateAddress">Dirección privada</string>
+    <string name="empty_field">Campo vacío</string>
+    <string name="error_a11y_label">Error: inválido</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="exit">SALIR</string>
+    <string name="expert">Experto</string>
+    <string name="expert_content_1">Las enfermedades más comunes que afectan las hojas de maíz incluyen la roya del maíz, el mildiu polvoriento, la mancha de la hoja, y la podredumbre de la raíz. Estas enfermedades pueden ser causadas por hongos, bacterias o virus.</string>
+    <string name="expert_content_2">Las hojas de maíz pueden presentar varios tipos de decoloración, incluyendo Manchas amarillas ( Pueden ser causadas por deficiencias de nutrientes o enfermedades como el mildiu polvoriento), Manchas marrones o negruzcas (Suelen indicar infecciones por hongos, como la roya) y Color blanquecino o grisáceo (Es típico del mildiu polvoriento, causado por hongos que afectan la superficie de las hojas).</string>
+    <string name="expert_content_3">Los tratamientos químicos varían según la enfermedad, pero algunos comunes incluyen Roya del maíz (Fungicidas sistémicos como el tebuconazol o el propiconazol pueden ser efectivos), Mildiu polvoriento (Fungicidas como el azufre o el clorotalonil se utilizan para controlar esta enfermedad) y Manchas en las hojas (Fungicidas como el cobre o el mancozeb pueden ser aplicados para controlar las manchas).</string>
+    <string name="expert_title_1">¿Cuáles son las enfermedades más comunes que afectan las hojas de maíz?</string>
+    <string name="expert_title_2">¿Qué tipos de decoloración pueden presentar las hojas de maíz?</string>
+    <string name="expert_title_3">¿Qué tratamientos químicos se pueden utilizar para combatir estas enfermedades?</string>
+    <string name="friday">Viernes</string>
+    <string name="gallery">Galería</string>
+    <string name="go">Vamos</string>
+    <string name="grant_permission">Conceder permiso</string>
+    <string name="hello">Hola,</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="history">"Historial "</string>
+    <string name="ic_flip_24">Voltear</string>
+    <string name="ic_flip_24_horizontally">Voltear horizontalmente</string>
+    <string name="ic_flip_24_vertically">Voltear verticalmente</string>
+    <string name="ic_rotate_left_24">Rotar en sentido antihorario</string>
+    <string name="ic_rotate_right_24">Rotar</string>
+    <string name="icon_content_description">Ícono de diálogo</string>
+    <string name="identify_plant_diseases_to_quickly_figure_out_ways_of_treating_your_plant">Identifica las enfermedades de las plantas para encontrar rápidamente maneras de tratarlas</string>
+    <string name="if_you_like">Si disfrutas usando nuestra aplicación, ¿te importaría calificarnos en la Play Store?</string>
+    <string name="insect_history">Insect History</string>
+    <string name="insect_identifier">Insects</string>
+    <string name="insect_list">Insect List</string>
+    <string name="insect_recognition">Insect Recognition</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="language">Idioma</string>
+    <string name="let_s_learn_more_about_plants">Aprendamos más sobre las plantas</string>
+    <string name="letstart">Comencemos</string>
+    <string name="maybe_later">Tal vez más tarde</string>
+    <string name="mieu_ta_alarm">Mieu ta Alarm</string>
+    <string name="monday">Mon</string>
+    <string name="more_info">More Info</string>
+    <string name="mushroom_history">Mushroom History</string>
+    <string name="mushroom_identifier">Mushrooms</string>
+    <string name="mushroom_list">Mushroom List</string>
+    <string name="mushroom_recognition">Mushroom Recognition</string>
+    <string name="native_body">Body</string>
+    <string name="native_headline">Headline</string>
+    <string name="native_media_view">Media View</string>
+    <string name="next">SIGUIENTE</string>
+    <string name="not_rated">No evaluado en la Play Store</string>
+    <string name="permission">Permisos</string>
+    <string name="pick_image_camera">Camara</string>
+    <string name="pick_image_chooser_title">Seleccionar fuente</string>
+    <string name="pick_image_gallery">"Galería "</string>
+    <string name="plan_health">"Salud de la planta "</string>
+    <string name="plant_health">Historial de Plantas</string>
+    <string name="plant_health_history">Historial de salud de la planta</string>
+    <string name="plant_health_list">Lista de salud de la planta</string>
+    <string name="plant_history">Historial de la planta</string>
+    <string name="plant_identifier">"Planta "</string>
+    <string name="plant_list">Lista de plantas</string>
+    <string name="plant_name">Nombre de la planta</string>
+    <string name="plant_recognition">Reconocimiento de plantas</string>
+    <string name="please_choose_your_language">Por favor, elija su idioma</string>
+    <string name="please_enter_text">Por favor, introduzca algún texto</string>
+    <string name="please_feedback">Por favor, danos tu opinión</string>
+    <string name="project_id">exoriumplantrecognition</string>
+    <string name="rate_app">"Mejorar versión "</string>
+    <string name="rate_now">Calificar ahora</string>
+    <string name="rate_start_event">rate_star_%1$s</string>
+    <string name="rate_us">Califícanos</string>
+    <string name="rate_your_app">"Mejorar versión "</string>
+    <string name="rated_app">Has valorado la aplicación</string>
+    <string name="rating_invitation">Estamos trabajando arduamente para una mejor experiencia de usuario. Le agradeceríamos mucho si nos puede calificar.</string>
+    <string name="reminder">Recordatorio</string>
+    <string name="remove_ads">ELIMINAR ANUNCIOS</string>
+    <string name="remove_all_anoying_ads_forever_by_just">Elimine todos los anuncios anónimos para siempre con solo hacer lo siguiente:</string>
+    <string name="saturday">Sat</string>
+    <string name="scan_now">Escanear ahora</string>
+    <string name="score">Puntuación</string>
+    <string name="search">Buscar</string>
+    <string name="search_menu_title">Buscar</string>
+    <string name="select">"Seleccionar "</string>
+    <string name="select_image_source">Seleccionar la imagen</string>
+    <string name="set_a_reminder">Establecer un recordatorio</string>
+    <string name="set_reminder">Establecer recordatorio</string>
+    <string name="setting">Ajustes</string>
+    <string name="share_app">Compartir aplicación</string>
+    <string name="sunday">Domingo</string>
+    <string name="tap_exit_app">Toque aquí para salir de la aplicación</string>
+    <string name="thanks_feedback">¡Gracias por tus comentarios¡</string>
+    <string name="the_best_we_can_get">Lo mejor que podemos conseguir :)</string>
+    <string name="there_are_no_records_here_yet">Todavía no hay registros aquí</string>
+    <string name="this_action_can_contain_ads">Esta acción puede contener anuncios</string>
+    <string name="thusday">Martes</string>
+    <string name="time_to_watering">Es hora de regar</string>
+    <string name="title_boarding_1">Identificación de plantas con IA</string>
+    <string name="title_boarding_2">Diagnóstico de enfermedades de las plantas</string>
+    <string name="title_boarding_3">Consejos de jardinería</string>
+    <string name="tree_history">Tree History</string>
+    <string name="tree_identifier">Trees</string>
+    <string name="tree_list">Tree List</string>
+    <string name="tree_recognition">Tree Recognition</string>
+    <string name="try_now">Pruébalo ahora</string>
+    <string name="tuesday">Tue</string>
+    <string name="type">Tipo:</string>
+    <string name="update_reminder">Recordatorio de actualización</string>
+    <string name="volume_down">Abajo</string>
+    <string name="volume_up">Arriba</string>
+    <string name="watch_ad_to_use_feature">Ver la función de uso del anuncio</string>
+    <string name="watering_reminder">Recordatorio de riego</string>
+    <string name="watermark_label_prefix">AdMob - </string>
+    <string name="we_like_you_too">We like you too!</string>
+    <string name="wednesday">Wed</string>
+    <string name="well_comeback">Bienvenido</string>
+    <string name="you_don_t_set_any_reminder_yet">¡Todavía no has establecido ningún recordatorio!</string>
+    <string name="start_to_create_a_reminder_for_your_plants">Empieza a crear un recordatorio para tus plantas</string>
+    <string name="app_name">FarmApp</string>
+    <string name="home">"Inicio "</string>
+    <string name="are_you_sure_you_want_to_exit">¿Estás seguro de que deseas salir?</string>
+    <string name="dyAction.getMove">Mover</string>
+    <string name="messenger_send_button_text">Enviar</string>
+    <string name="oh_no">¡Oh, no!</string>
+    <string name="other_results">Otros resultados</string>
+    <string name="title_permission">Probemos con la aplicación FarmApp</string>
+</resources>
